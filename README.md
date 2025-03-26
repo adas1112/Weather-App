@@ -31,7 +31,7 @@ WeatherApp is an iOS application that provides real-time weather updates. Users 
 ## Weather Data Screen
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2025-03-24 at 13 35 50](https://github.com/user-attachments/assets/4145dcce-8fb4-433e-bcf3-599a50a946ee)
 ## Weather Data Detail Screen
-![Simulator Screen Shot - iPhone 8 - 2025-03-24 at 13 04 59](https://github.com/user-attachments/assets/7f4f4a50-e0ff-4016-8e0d-4cd7ecab6171)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2025-03-24 at 13 36 22](https://github.com/user-attachments/assets/f757ca04-cede-4ee4-abad-912b5e1ce543)
 ## Weather Data Delete Screen
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2025-03-24 at 13 36 40](https://github.com/user-attachments/assets/be680943-8a3c-4c0f-aead-a148cc36c271)
 ## Weather Add Data Screen
