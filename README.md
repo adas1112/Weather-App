@@ -15,7 +15,7 @@ WeatherApp is an iOS application that provides real-time weather updates. Users 
 - 📋 **Weather Details** – View detailed weather conditions.
 - 🗑 **Delete Saved Weather Data** – Remove stored weather records.
 
-## 📷 Screenshots
+## 📷 Screens
 | Main Screen | Weather Data Screen | Weather Detail Screen |
 |------------|----------------------|-----------------------|
 
